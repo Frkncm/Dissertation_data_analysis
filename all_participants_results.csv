@@ -1,4 +1,4 @@
-subject_number,mean_hr,mean_scl,mean_scr,std_hr,std_scl,std_scr,score,time,stressed_time(s),exp_type,begin_with
+subject_number,mean_hr,mean_scl,mean_scr,std_hr,std_scl,std_scr,score,time,mean_stressed_time,experiment_type,begin_with
 Subject_1,75.40689,0.913238,-1.81E-05,10.93383,0.2395036,0.0021314,42,00:00:00,112.34,with_shared_control,with_shared
 Subject_1,76.64296,1.2736697,7.45E-05,7.04404878,0.2930945,0.00253659,0,00:02:28,4.92,without_shared_control,with_shared
 Subject_2,77.5055,0.90557,-1.38E-05,16.44557,0.0709397,0.001622,31,00:00:00,134.48,with_shared_control,with_shared

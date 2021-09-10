@@ -1,0 +1,16 @@
+,Ttest,,Mann-Whitney U Test,,Wilcoxon Signed-Rank Test,
+,Statistics,p-value,Statistics,p-value,Statistics,p-value
+Mean HR,-0.4592595,0.6530977,26,0.282,3,0.039
+Mean SCL,-0.3043593,0.7653312,30,0.437,14,0.641
+Mean SCR,-0.6163415,0.5475607,23,0.186,15,0.742
+Score,1.7921351,0.0947419,13.5,0.027,7,0.148
+stress_time,-0.5851808,0.5677389,27,0.318,11,0.383
+,,,,,,
+,,,,,,
+,Mann-Whitney U Test,,Wilcoxon Signed-Rank Test,,,
+,Statistics,p-value,Statistics,p-value,,
+Mean HR,26,0.282,3,0.039,,
+Mean SCL,30,0.437,14,0.641,,
+Mean SCR,23,0.186,15,0.742,,
+Score,13.5,0.027,7,0.148,,
+stress_time,27,0.318,11,0.383,,
